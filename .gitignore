@@ -1,0 +1,5 @@
+# ignore lockfile
+poetry.lock
+
+# ignore local environment secrets
+*.env
